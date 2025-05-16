@@ -40,14 +40,10 @@ Mes outils et technologies
 </p>
 
 <p align="center">
-    <a href="https://github.com/MohKad59
-">
+    <a href="https://github.com/MohKad59">
         <img alt="MohKad59 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MohKad59&show_icons=true&count_private=true&theme=radical" height="192px" />
-    <a href="https://github.com/MohKad59
-">
-        <img alt="MohKad59
- Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MohKad59
-&langs_count=20&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+    <a href="https://github.com/MohKad59">
+        <img alt="MohKad59 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MohKad59&langs_count=20&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
     </a>
 </p>
 
