@@ -32,32 +32,32 @@ Mes outils et technologies
 ![skills](https://skillicons.dev/icons?i=html,css,tailwindcss,js,lua,react,nextjs,figma,vscode,apple,github,threejs,discord,nodejs,express,php,mysql,mongodb,supabase,git,vite&theme=dark)
 
 <details>
-<summary>&#9889 <b>GitHub Stats</b></summary><br/>
+<summary>⚡ <b>GitHub Stats</b></summary>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohKad59
-&theme=radical&border=7F3FBF&background=0D1117" alt="MohKad59" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohKad59&theme=radical&border=7F3FBF&background=0D1117" alt="MohKad59 Streak" />
 </p>
 
 <p align="center">
     <a href="https://github.com/MohKad59">
-        <img alt="MohKad59 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MohKad59&show_icons=true&count_private=true&theme=radical" height="192px" />
+        <img alt="MohKad59 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MohKad59&show_icons=true&count_private=true&theme=radical&border=7F3FBF&background=0D1117" height="192px" />
     </a>
     <a href="https://github.com/MohKad59">
-        <img alt="MohKad59 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MohKad59&langs_count=8&layout=compact&theme=radical" height="192px" />
+        <img alt="MohKad59 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MohKad59&langs_count=8&layout=compact&theme=radical&border=7F3FBF&background=0D1117" height="192px" />
     </a>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohKad59
-&custom_title=MohKad59%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="MohKad59" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohKad59&custom_title=MohKad59%20GitHub%20Activity%20Graph&theme=radical&border=7F3FBF&background=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="MohKad59 Activity Graph" />
 </p>
 </details>
+
 <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+<summary>🏆 <b>GitHub Awards</b></summary>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=MohKad59)
-
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=MohKad59&theme=radical&no-frame=true&margin-w=15" alt="MohKad59 Trophies" />
+</p>
 </details>
 
 <img src="https://raw.githubusercontent.com/Devtrotter/Devtrotter/57d797287a1541c51be8dbcd2e1f621af6b55f88/Images/snake.svg" style="background:#161b22;">
