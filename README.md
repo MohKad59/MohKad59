@@ -1,4 +1,5 @@
-👋 Bonjour, je suis Mohamed Kaddour !
+![Coding Gif](https://github.com/m-mdy-m/m-mdy-m/blob/main/Life.js.gif)
+Salut! Je suis Mohamed KADDOUR (💻💜🚀)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 Développeur Web Full Stack | Passionné par l’innovation | Spécialisé en React, Node.js, Express.js, MySQL
 En formation Développeur Web et Web Mobile à la Wild Code School (Villeneuve-d’Ascq), je conçois des applications web dynamiques et performantes. Avec un parcours riche en télésurveillance, maintenance photovoltaïque et relation client, j’apporte rigueur, analyse et esprit d’équipe à mes projets.
 🌟 Ce que je fais : Interfaces responsives, API robustes, gestion de bases de données, optimisation de processus.🚀 Objectif : Contribuer à des projets e-commerce ou SaaS en tant que développeur junior (PHP, JavaScript, React).📫 Contact : kadnakano@gmail.com | LinkedIn | Twitter
