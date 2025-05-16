@@ -55,9 +55,9 @@ Mes outils et technologies
 <details>
 <summary>🏆 <b>GitHub Awards</b></summary>
 
-<p align="center">
-    ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Luigi-44&theme=radical&no-frame=true&margin-w=15)
-</p>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Luigi-44&theme=radical&no-frame=true&margin-w=15)
+
 </details>
 
 <img src="https://raw.githubusercontent.com/Devtrotter/Devtrotter/57d797287a1541c51be8dbcd2e1f621af6b55f88/Images/snake.svg" style="background:#161b22;">
