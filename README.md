@@ -23,7 +23,32 @@ GalacticLove 💫Site de rencontre conçu en 48h lors d’un hackathon (HTML, CS
 
 Mes outils et technologies
 
-https://camo.githubusercontent.com/0dca6b27622144f30d869ee585515e072f80bda2b7bac792f86dd3042d190b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c7461696c77696e646373732c6a732c6c75612c72656163742c6e6578746a732c6669676d612c7673636f64652c6170706c652c6769746875622c74687265656a732c646973636f72642c6e6f64656a732c657870726573732c7068702c6d7973716c2c6d6f6e676f64622c73757061626173652c6769742c76697465267468656d653d6461726b
+<details>
+<summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nasko-dev&theme=radical&border=7F3FBF&background=0D1117" alt="MohKad59" />
+</p>
+
+<p align="center">
+    <a href="https://github.com/Nasko-dev">
+        <img alt="Nasko-dev Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Nasko-dev&show_icons=true&count_private=true&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+    </a>
+    <a href="https://github.com/Nasko-dev">
+        <img alt="Nasko-dev Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Nasko-dev&langs_count=20&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasko-dev&custom_title=Nasko-dev%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="MohKad59" />
+</p>
+</details>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=MohKad59)
+
+</details>
 
 Activité récente
 
