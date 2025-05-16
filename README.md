@@ -16,7 +16,7 @@ Projets phares
 
 L’Art à Part 🛒Application e-commerce en React, Express.js et Node.js. Interface dynamique avec Vite.js, API sécurisée avec Bcrypt, maquettes sur Figma.🔗 [Ajouter l’URL du repo ici] | 🌐 [Ajouter l’URL de la démo ici, si disponible]
 
-Chucko Munko 🛍️Plateforme e-commerce avec UX optimisée (Toastify) et base de données MySQL. Collaboration agile via Trello et Git.🔗 [Ajouter l’URL du repo ici] | 🌐 [Ajouter l’URL de la démo ici, si disponible]
+Chucko Manga 🛍️Plateforme e-commerce avec UX optimisée (Toastify) et base de données MySQL. Collaboration agile via Trello et Git.🔗 [Ajouter l’URL du repo ici] | 🌐 [Ajouter l’URL de la démo ici, si disponible]
 
 GalacticLove 💫Site de rencontre conçu en 48h lors d’un hackathon (HTML, CSS, JavaScript). Interface responsive, maquettes sur Excalidraw.🔗 [Ajouter l’URL du repo ici] | 🌐 [Ajouter l’URL de la démo ici, si disponible]
 
