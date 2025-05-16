@@ -2,6 +2,7 @@
 Salut! Je suis Mohamed KADDOUR (💻💜🚀)![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playwrite+England+SemiJoine&pause=1000&color=D32BFFB3&center=faux&vCenter=faux&repeat=vrai&random=faux&width=435&lines=%5BStagiaire%5D%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;%5BWild+Code+School%5D%F0%9F%8F%AB;%5B%F0%9F%A4%96AI%7C%E2%9B%93%EF%B8%8FWeb3%5D%F0%9F%92%9C)](https://git.io/typing-svg)
+
 Développeur Web Full Stack | Passionné par l’innovation | Spécialisé en React, Node.js, Express.js, MySQL
 En formation Développeur Web et Web Mobile à la Wild Code School (Villeneuve-d’Ascq), je conçois des applications web dynamiques et performantes. Avec un parcours riche en télésurveillance, maintenance photovoltaïque et relation client, j’apporte rigueur, analyse et esprit d’équipe à mes projets.
 🌟 Ce que je fais : Interfaces responsives, API robustes, gestion de bases de données, optimisation de processus.🚀 Objectif : Contribuer à des projets e-commerce ou SaaS en tant que développeur junior (PHP, JavaScript, React).📫 Contact : kadnakano@gmail.com | LinkedIn | Twitter
