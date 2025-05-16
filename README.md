@@ -56,7 +56,7 @@ Mes outils et technologies
 <summary>🏆 <b>GitHub Awards</b></summary>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=MohKad59&theme=radical&no-frame=true&margin-w=15" alt="MohKad59 Trophies" />
+    ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Luigi-44&theme=radical&no-frame=true&margin-w=15)
 </p>
 </details>
 
