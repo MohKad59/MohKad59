@@ -43,12 +43,12 @@ Mes outils et technologies
         <img alt="MohKad59 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MohKad59&show_icons=true&count_private=true&theme=radical&border=7F3FBF&background=0D1117" height="192px" />
     </a>
     <a href="https://github.com/MohKad59">
-        <img alt="MohKad59 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MohKad59&langs_count=8&layout=compact&theme=radical&border=7F3FBF&background=0D1117" height="192px" />
+        <img alt="MohKad59 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MohKad59&langs_count=8&layout=compact&theme=tokyonight&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" />
     </a>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohKad59&custom_title=MohKad59%20GitHub%20Activity%20Graph&theme=radical&border=7F3FBF&background=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="MohKad59 Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohKad59&custom_title=MohKad59%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="MohKad59 Activity Graph" />
 </p>
 </details>
 
