@@ -1,7 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=D32BFF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=60&lines=👨‍💻+Développeur+Passionné;🏫+Wild+Code+School+Graduate;🤖+IA+%7C+⛓️+Web3+%7C+💜+Tech)](https://git.io/typing-svg)
+
 ![Coding Gif](https://github.com/m-mdy-m/m-mdy-m/blob/main/Life.js.gif)
 Salut! Je suis Mohamed KADDOUR (💻💜🚀) ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=D32BFF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=60&lines=👨‍💻+Développeur+Passionné;🏫+Wild+Code+School+Graduate;🤖+IA+%7C+⛓️+Web3+%7C+💜+Tech)](https://git.io/typing-svg)
 
 Développeur Web Full Stack | Passionné par l’innovation | Spécialisé en React, Node.js, Express.js, MySQL
 En formation Développeur Web et Web Mobile à la Wild Code School (Villeneuve-d’Ascq), je conçois des applications web dynamiques et performantes. Avec un parcours riche en télésurveillance, maintenance photovoltaïque et relation client, j’apporte rigueur, analyse et esprit d’équipe à mes projets.
