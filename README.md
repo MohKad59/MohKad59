@@ -7,7 +7,7 @@ Développeur Web Full Stack | Passionné par l’innovation | Spécialisé en Re
 En formation Développeur Web et Web Mobile à la Wild Code School (Villeneuve-d’Ascq), je conçois des applications web dynamiques et performantes. Avec un parcours riche en télésurveillance, maintenance photovoltaïque et relation client, j’apporte rigueur, analyse et esprit d’équipe à mes projets.
 🌟 Ce que je fais : Interfaces responsives, API robustes, gestion de bases de données, optimisation de processus.🚀 Objectif : Contribuer à des projets e-commerce ou SaaS en tant que développeur junior (PHP, JavaScript, React).📫 Contact : kadnakano@gmail.com 
 
-À propos de moi
+À propos de moi,
 Je suis un développeur web en reconversion, motivé par la création de solutions techniques alliant esthétique et efficacité. Mes compétences incluent :  
 
 Frontend : React, HTML, CSS, JavaScript, Vite.js, React Router, Toastify  
