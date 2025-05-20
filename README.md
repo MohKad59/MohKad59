@@ -19,9 +19,9 @@ Mon expérience en supervision chez Agriwatt (gestion d’équipe, optimisation 
 🎯 Prochain défi : Maîtriser PHP et TypeScript pour élargir mes compétences backend.🎬 Fun fact : Fan de mangas et de cinéma, je trouve dans les récits épiques l’inspiration pour coder des solutions uniques !
 Projets phares
 
-L’Art à Part 🛒Application e-commerce en React, Express.js et Node.js. Interface dynamique avec Vite.js, API sécurisée avec Bcrypt, maquettes sur Figma.🔗 (https://github.com/WildCodeSchool/nov24-RemFR-Vert-FullStackAlchemist-G3-P2) 🌐 
-
 Chucko Manga 🛍️Plateforme e-commerce avec UX optimisée (Toastify) et base de données MySQL. Collaboration agile via Trello et Git.🔗 (https://github.com/WildCodeSchool/nov24-RemFR-Vert-FullStackAlchemist-G1-P3) 🌐 
+
+L’Art à Part 🛒Application e-commerce en React, Express.js et Node.js. Interface dynamique avec Vite.js, API sécurisée avec Bcrypt, maquettes sur Figma.🔗 (https://github.com/WildCodeSchool/nov24-RemFR-Vert-FullStackAlchemist-G3-P2) 🌐 
 
 GalacticLove 💫Site de rencontre conçu en 48h lors d’un hackathon (HTML, CSS, JavaScript). Interface responsive, maquettes sur Excalidraw.🔗 (https://github.com/MohKad59/Hackathon1) 🌐 
 
